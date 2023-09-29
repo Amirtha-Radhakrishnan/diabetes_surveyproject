@@ -1,1 +1,1 @@
-# diabetes_surveyproject
+Data analysis project on diabetes_survey using python
